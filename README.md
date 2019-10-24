@@ -9,8 +9,8 @@ To start your Phoenix server:
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 # Tasks
-  * create post by type (image, text, video)
-  * create users
+  *[] create post by type (image, text, video)
+  *[] create users
   * associate post - users
   * create like to posts
   * create repost to blog
