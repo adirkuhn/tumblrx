@@ -6,10 +6,6 @@ config :tumblrx, Tumblrx.Repo,
   username: "postgres",
   password: "",
   hostname: "localhost",
-  # username: "tdzzsubsneivnb",
-  # password: "78d324fb5d735f0c6c7d0e5f564608e4053de71a5e7be9e766ad5740a75f685d",
-  # database: "dcmv6avbr6nlk9",
-  # hostname: "ec2-54-243-239-199.compute-1.amazonaws.com",
   # ssl: true,
   # ssl_opts: [
   #   cacertfile: "priv/AmazonRootCA1.pem"
