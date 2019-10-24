@@ -16,8 +16,13 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
   * create repost to blog
   * create admin
   * allow user to follow each other
-  * 
+  * create endpoint to get the timeline
+  * create endpoint to list user post by creation date DESc
+  * create endpoint to show liked post
+  * create endpoint to show who you are following
+  * create a endpoint to show who are following you
 
+###########################
 
 Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
